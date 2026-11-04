@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://example.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/brand/artcraft-logo-white.svg">
-      <img alt="ArtCraft" src="MANTEVEDAU_fit_to_select.svg" width="200">
+      <source media="(prefers-color-scheme: dark)" srcset="mantevedau_mini_white.svg">
+      <img alt="mantevedau" src="mantevedau_mini.svg" width="200">
     </picture>
   </a>
 </p>
