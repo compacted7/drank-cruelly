@@ -23,6 +23,7 @@ A universal converter that turns any text-based file into a PDF document, treati
 </p>
 
 <img alt="Version" src="https://img.shields.io/badge/version-1-blue?style=flat-square">
+<img alt="Static Badge" src="https://img.shields.io/badge/Windows%20%26%20macOS%20%26%20Linux-Native-blue?style=flat-square">
 
 ## Languages
 
