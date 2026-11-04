@@ -1,14 +1,14 @@
 <p align="center">
   <a href="https://example.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/brand/mantevedau_mini_w.svg">
-      <img alt="Mantevedau" src="assets/brand/mantevedau_mini.svg" width="200">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/contributors_white.svg" width="200">
+      <img alt="logo" src="assets/contributors.svg" width="200">
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <img src="assets/brand/program_logo.svg" width="128" height="128" alt="Program icon">
+  <img src="assets/program_logo.svg" width="128" height="128" alt="Program icon">
 </p>
 
 <p align="center">
