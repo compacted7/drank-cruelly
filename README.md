@@ -20,14 +20,7 @@
 </p>
 
 <p align="center">
-  <img alt="Dart 100%" src="https://img.shields.io/badge/Dart-100%25-blue?style=flat-square&logo=dart">
-  <img alt="Windows macOS Linux" src="https://img.shields.io/badge/Windows%20%C2%B7%20macOS%20%C2%B7%20Linux-Native-orange?style=flat-square">
-  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-orange?style=flat-square">
-  <img alt="Status: early alpha" src="https://img.shields.io/badge/status-early%20alpha-d69e2e?style=flat-square">
-  <br>
-  <a href="https://sonarcloud.io/project/overview?id=storytold_photocraft"><img alt="Scanned by SonarCloud" src="https://img.shields.io/badge/Scanned_by-SonarCloud-4b9fd5?style=flat-square&logo=sonarqubecloud&logoColor=white"></a>
-  <a href="https://coderabbit.ai"><img alt="Reviewed by CodeRabbit" src="https://img.shields.io/coderabbit/prs/github/storytold/photocraft?style=flat-square&label=Reviewed%20by%20CodeRabbit&logo=coderabbit"></a>
-</p>
+  <img alt="Windows macOS Linux" src="https://img.shields.io/badge/Windows%20%26%20macOS%20%26%20Linux-Native-red?style=flat-square">
 
 ## Languages
 
