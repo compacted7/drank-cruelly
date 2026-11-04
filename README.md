@@ -2,7 +2,7 @@
   <a href="https://example.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/brand/mantevedau_mini_w.svg">
-      <img alt="Mantevedau" src="assets/brand/mantevedau_mini.svg width="200">
+      <img alt="Mantevedau" src="assets/brand/mantevedau_mini.svg" width="200">
     </picture>
   </a>
 </p>
