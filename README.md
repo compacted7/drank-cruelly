@@ -14,7 +14,7 @@
 <h1 align="center">Program</h1>
 
 <p align="center">
-  Текст<br>
+  Конвертируйте текстовые файлы<br>
   Текст<br>
   И еще
 </p>
