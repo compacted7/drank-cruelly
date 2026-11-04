@@ -19,8 +19,6 @@ A universal converter that turns any text-based file into a PDF document, treati
 
 <img alt="Static Badge" src="https://img.shields.io/badge/version-1-blue">
 
-<img alt="Static Badge" src="assets/brand/terminal.png">
-
 <p>
   <a href="https://getartcraft.com/apps/photocraft"><b>PhotoCraft on getartcraft.com</b></a> ·
   <a href="https://example.com/">Mantevedau</a> ·
