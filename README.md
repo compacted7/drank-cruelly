@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/brand/program_logo.svg" width="128" height="128" alt="PhotoCraft icon: an engraved nine-tailed fox on a blue tile">
+  <img src="assets/brand/program_logo.svg" width="128" height="128" alt="Program icon">
 </p>
 
 <h1 align="center">Program</h1>
