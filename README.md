@@ -19,7 +19,7 @@ A universal converter that turns any text-based file into a PDF document, treati
 
 <p align="center">
   <a href="https://getartcraft.com/apps/photocraft"><b>PhotoCraft on getartcraft.com</b></a> ·
-  <a href="https://getartcraft.com/">ArtCraft</a> ·
+  <a href="https://example.com/">Mantevedau</a> ·
   <a href="https://getartcraft.com/apps">All Crafting Apps</a>
 </p>
 
