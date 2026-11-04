@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://example.com/">Telegram</a>
+  <a href="https://example.com/">Telegram</a> | <a href="https://example.com/">Discord</a>
 </p>
 
 
