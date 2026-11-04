@@ -11,19 +11,19 @@
   <img src="assets/brand/program_logo.svg" width="128" height="128" alt="Program icon">
 </p>
 
-<h1 align="center">Program</h1>
+<h1>Program</h1>
 
-<p align="center">
-  Конвертируйте текстовые файлы<br>
-  Текст<br>
-  И еще
-</p>
-
-<p align="center">
+<p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Version-1-blue?style=flat-square">
   <img alt="Windows macOS Linux" src="https://img.shields.io/badge/Windows%20%26%20macOS%20%26%20Linux-Native-blue?style=flat-square">
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Join%20us%20on%20Discord-%235965f2?style=for-the-badge">
+
+<p >
+  Конвертируйте текстовые файлы<br>
+  Текст<br>
+  И еще
+</p>
 
   <p align="center">
   <a href="https://getartcraft.com/apps/photocraft"><b>PhotoCraft on getartcraft.com</b></a> ·
