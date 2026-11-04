@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <a href="https://example.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/brand/mantevedau_mini_w.svg">
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <img src="assets/brand/program_logo.svg" width="128" height="128" alt="Program icon">
 </p>
 
