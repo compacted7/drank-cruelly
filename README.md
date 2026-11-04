@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://getartcraft.com/">
+  <a href="https://example.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="MANTEVEDAU_fit_to_select.svg">
-      <img alt="ArtCraft" src="docs/brand/artcraft-logo.svg" width="200">
+      <source media="(prefers-color-scheme: dark)" srcset="docs/brand/artcraft-logo-white.svg">
+      <img alt="ArtCraft" src="MANTEVEDAU_fit_to_select.svg" width="200">
     </picture>
   </a>
 </p>
