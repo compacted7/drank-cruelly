@@ -11,6 +11,11 @@
   <img src="assets/brand/program_logo.svg" width="128" height="128" alt="Program icon">
 </p>
 
+<p align="center">
+  <a href="https://example.com/">Telegram</a>
+</p>
+
+
 <h1>Program</h1>
 
 <p>
@@ -18,12 +23,6 @@ A universal converter that turns any text-based file into a PDF document, treati
 </p>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/version-1-blue">
-
-<p>
-  <a href="https://getartcraft.com/apps/photocraft"><b>PhotoCraft on getartcraft.com</b></a> ·
-  <a href="https://example.com/">Mantevedau</a> ·
-  <a href="https://getartcraft.com/apps">All Crafting Apps</a>
-</p>
 
 ## Languages
 
