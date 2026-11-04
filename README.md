@@ -22,7 +22,7 @@
 A universal converter that turns any text-based file into a PDF document, treating its contents as plain text regardless of the original file format.
 </p>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/version-1-blue">
+<img alt="Version" src="https://img.shields.io/badge/version-1-blue?style=flat-square">
 
 ## Languages
 
